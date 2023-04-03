@@ -3,3 +3,4 @@ Mess-Manager ,a user friendly web application to manage mess attendance and expe
 
 ## Name
 - Sowham Bhuin
+- Sourav Bhunia
